@@ -105,9 +105,10 @@ body{
     margin-bottom: 20px;
     display: flex;
     /* flex-wrap: wrap; */
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
     gap: 20px;
+    overflow: auto;
 }
 
 .section-1-column{
